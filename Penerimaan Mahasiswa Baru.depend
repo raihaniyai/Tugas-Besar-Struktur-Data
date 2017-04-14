@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1490793264 source:c:\users\iyai\documents\penerimaan mahasiswa baru\main.cpp
+	<iostream>
+	"relasi.h"
+
+1491010238 c:\users\iyai\documents\penerimaan mahasiswa baru\mahasiswabaru.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1491010164 c:\users\iyai\documents\penerimaan mahasiswa baru\jurusan.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1491010164 c:\users\iyai\documents\penerimaan mahasiswa baru\relasi.h
+	"jurusan.h"
+	"mahasiswabaru.h"
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<iostream>
+
+1491015581 source:c:\users\iyai\documents\penerimaan mahasiswa baru\jurusan.cpp
+	"jurusan.h"
+
+1491015665 source:c:\users\iyai\documents\penerimaan mahasiswa baru\relasi.cpp
+	"relasi.h"
+
+1491011323 source:c:\users\iyai\documents\penerimaan mahasiswa baru\mahasiswabaru.cpp
+	"mahasiswabaru.h"
+
+1489640872 c:\users\iyai\documents\penerimaan mahasiswa baru\penerimaanmahasiswa.h
+	<iostream>
+
+1491015581 source:c:\users\iyai\documents\tugas besar struktur data\penerimaan mahasiswa baru\jurusan.cpp
+	"jurusan.h"
+
+1491010164 c:\users\iyai\documents\tugas besar struktur data\penerimaan mahasiswa baru\jurusan.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1491011323 source:c:\users\iyai\documents\tugas besar struktur data\penerimaan mahasiswa baru\mahasiswabaru.cpp
+	"mahasiswabaru.h"
+
+1491010238 c:\users\iyai\documents\tugas besar struktur data\penerimaan mahasiswa baru\mahasiswabaru.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1490793264 source:c:\users\iyai\documents\tugas besar struktur data\penerimaan mahasiswa baru\main.cpp
+	<iostream>
+	"relasi.h"
+
+1491010164 c:\users\iyai\documents\tugas besar struktur data\penerimaan mahasiswa baru\relasi.h
+	"jurusan.h"
+	"mahasiswabaru.h"
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<iostream>
+
+1491894793 source:c:\users\iyai\documents\tugas besar struktur data\penerimaan mahasiswa baru\relasi.cpp
+	"relasi.h"
+
